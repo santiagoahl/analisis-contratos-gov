@@ -25,6 +25,7 @@ Análisis de contratos gubernamentales en Colombia
 ## Características principales
 
 Este proyecto de machine learning tiene como objetivo analizar a detalle la información desplegada por la página oficial de datos abiertos del gobierno de Colombia y del Sistema Electrónico para la Contratación Pública (SECOP), todo con la finalidad de encontrar posibles anomalías, agrupar texto clave del objetivo de los contratos y predecir los gastos. 
+
 El conjunto de datos es tomado de [SECOP Integrado | Gastos Gubernamentales](https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-Integrado/rpmr-utcd). A continuación mostramos las características clave del proyecto:
 
 
