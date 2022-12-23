@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://www.contratos.gov.co/consultas/inicioConsulta.do"><img src="https://www.creg.gov.co/sites/default/files/files_upload/contratacionpublica.png" alt="SECOP" width="300"></a>
+  <a href="https://www.contratos.gov.co/consultas/inicioConsulta.do"><img src="https://www.casur.gov.co/documents/20181/29461/SECOP.png/a0624ce6-64ea-4a07-8a5a-f604fd161d4d?t=1433878573103" alt="SECOP" width="300"></a>
   <br>
 Análisis de contratos gubernamentales en Colombia
   <br>
